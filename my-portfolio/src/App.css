@@ -1,0 +1,20 @@
+.title{
+  font-size: 60px;
+  text-align: center;
+  background-color: #61dafb;
+  padding: 50px;
+  margin: 0px;
+  border-bottom: black solid 5px;
+  border-top: black solid 5px;
+    
+}
+.description{
+  display: flex;
+  flex-direction: column;
+  font-size: 40px;
+  text-align: right;
+  background-color: #0e6f8a;
+  padding: 100px;
+  margin: 0px;
+}
+
