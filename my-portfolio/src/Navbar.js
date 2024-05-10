@@ -1,5 +1,5 @@
 import React from 'react';
-import './Navbar.css'; // Import CSS file for styling
+import './Navbar.css'; 
 
 const Navbar = () => {
   return (
@@ -8,8 +8,8 @@ const Navbar = () => {
         <h1 className="logo">Hriday Jain</h1>
         <ul className="nav-links">
           <li><a href="/">Home</a></li>
-          <li><a href="/projects">Projects</a></li>
-          <li><a href="/contact">Contact</a></li>
+          <li><a href="footer">Projects</a></li>
+          <li><a href="contacts">Contact</a></li>
         </ul>
       </div>
     </nav>

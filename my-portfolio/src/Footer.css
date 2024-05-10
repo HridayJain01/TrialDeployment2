@@ -5,4 +5,9 @@
     color: #ffffff;
     font-size:2rem;
     background-color:#000000;
+    text-decoration: none;
+}
+.container1 a{
+    text-decoration: none;
+    color: white;
 }
