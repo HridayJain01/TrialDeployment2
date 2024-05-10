@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/www.HridayJain01.github.io/TRIALDEPLOYMENT2/static/css/main.a95b304a.css",
-    "main.js": "/www.HridayJain01.github.io/TRIALDEPLOYMENT2/static/js/main.0cc82b8d.js",
-    "static/js/453.acca0757.chunk.js": "/www.HridayJain01.github.io/TRIALDEPLOYMENT2/static/js/453.acca0757.chunk.js",
-    "index.html": "/www.HridayJain01.github.io/TRIALDEPLOYMENT2/index.html",
-    "main.a95b304a.css.map": "/www.HridayJain01.github.io/TRIALDEPLOYMENT2/static/css/main.a95b304a.css.map",
-    "main.0cc82b8d.js.map": "/www.HridayJain01.github.io/TRIALDEPLOYMENT2/static/js/main.0cc82b8d.js.map",
-    "453.acca0757.chunk.js.map": "/www.HridayJain01.github.io/TRIALDEPLOYMENT2/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/www.HridayJain01.github.io/TRIALDEPLOYMENT2/my-portfolio/static/css/main.03a37e9b.css",
+    "main.js": "/www.HridayJain01.github.io/TRIALDEPLOYMENT2/my-portfolio/static/js/main.f5163aa9.js",
+    "static/js/453.acca0757.chunk.js": "/www.HridayJain01.github.io/TRIALDEPLOYMENT2/my-portfolio/static/js/453.acca0757.chunk.js",
+    "index.html": "/www.HridayJain01.github.io/TRIALDEPLOYMENT2/my-portfolio/index.html",
+    "main.03a37e9b.css.map": "/www.HridayJain01.github.io/TRIALDEPLOYMENT2/my-portfolio/static/css/main.03a37e9b.css.map",
+    "main.f5163aa9.js.map": "/www.HridayJain01.github.io/TRIALDEPLOYMENT2/my-portfolio/static/js/main.f5163aa9.js.map",
+    "453.acca0757.chunk.js.map": "/www.HridayJain01.github.io/TRIALDEPLOYMENT2/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a95b304a.css",
-    "static/js/main.0cc82b8d.js"
+    "static/css/main.03a37e9b.css",
+    "static/js/main.f5163aa9.js"
   ]
 }
